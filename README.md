@@ -25,7 +25,7 @@ MS Excel (dataset)
 
 PBIX Dashboard File
 
-Dataset Excel
+Dataset (Excel)
 
 Project Documentation / README
 
